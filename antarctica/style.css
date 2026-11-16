@@ -16,11 +16,16 @@ a {
 
 .stripe {
     width:100%;
-    height:33.33%;
+    height:42%;
 }
 
-
+.darkblue img{
+    height: 95px;
+    padding-top:2px;
+    padding-right: 10px;
+}
 .darkblue {
+    text-align: right;
     background:#000066;
 }
 
